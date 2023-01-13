@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DominioRico.Catalogo.Domain/1.0.0": {
+        "dependencies": {
+          "DominioRico.Core": "1.0.0"
+        },
+        "runtime": {
+          "DominioRico.Catalogo.Domain.dll": {}
+        }
+      },
+      "DominioRico.Core/1.0.0": {
+        "runtime": {
+          "DominioRico.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DominioRico.Catalogo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DominioRico.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

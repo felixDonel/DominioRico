@@ -1,0 +1,5 @@
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalago.Data\obj\Debug\net5.0\DominioRico.Catalago.Data.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalago.Data\obj\Debug\net5.0\DominioRico.Catalago.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalago.Data\obj\Debug\net5.0\DominioRico.Catalago.Data.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalago.Data\obj\Debug\net5.0\DominioRico.Catalago.Data.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalago.Data\obj\Debug\net5.0\DominioRico.Catalago.Data.csproj.CoreCompileInputs.cache

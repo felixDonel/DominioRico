@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5EuwhrCEAmV24ip01+Jwgq73ehnUHjgqWI3g8adAkbuFLGiLzyrChjpSqE1hGScfSdDA8w8uCkIijR/STKuaqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Core\\DominioRico.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Feeco\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Feeco\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

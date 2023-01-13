@@ -1,0 +1,11 @@
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\bin\Debug\net5.0\DominioRico.Core.deps.json
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\bin\Debug\net5.0\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\bin\Debug\net5.0\ref\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\bin\Debug\net5.0\DominioRico.Core.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\ref\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.pdb

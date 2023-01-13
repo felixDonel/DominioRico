@@ -1,0 +1,15 @@
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\bin\Debug\net5.0\DominioRico.Catalogo.Domain.deps.json
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\bin\Debug\net5.0\DominioRico.Catalogo.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\bin\Debug\net5.0\ref\DominioRico.Catalogo.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\bin\Debug\net5.0\DominioRico.Catalogo.Domain.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\bin\Debug\net5.0\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\bin\Debug\net5.0\DominioRico.Core.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.csproj.CopyComplete
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\ref\DominioRico.Catalogo.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Catalogo.Domain\obj\Debug\net5.0\DominioRico.Catalogo.Domain.pdb
