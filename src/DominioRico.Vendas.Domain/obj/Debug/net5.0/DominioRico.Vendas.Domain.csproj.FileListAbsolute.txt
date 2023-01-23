@@ -1,0 +1,15 @@
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\bin\Debug\net5.0\DominioRico.Vendas.Domain.deps.json
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\bin\Debug\net5.0\DominioRico.Vendas.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\bin\Debug\net5.0\ref\DominioRico.Vendas.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\bin\Debug\net5.0\DominioRico.Vendas.Domain.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\bin\Debug\net5.0\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\bin\Debug\net5.0\DominioRico.Core.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.csproj.CopyComplete
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\ref\DominioRico.Vendas.Domain.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Vendas.Domain\obj\Debug\net5.0\DominioRico.Vendas.Domain.pdb

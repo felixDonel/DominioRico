@@ -29,7 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominioRico.Catalogo.Tests"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominioRico.Catalago.Data", "src\DominioRico.Catalago.Data\DominioRico.Catalago.Data.csproj", "{DBD9821A-C66E-4367-93F9-C28D74FF563D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominioRico.Catalogo.Application", "src\DominioRico.Catalogo.Application\DominioRico.Catalogo.Application.csproj", "{F321CB4E-78B7-4B36-8912-0C1CD1CC70FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominioRico.Catalogo.Application", "src\DominioRico.Catalogo.Application\DominioRico.Catalogo.Application.csproj", "{F321CB4E-78B7-4B36-8912-0C1CD1CC70FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominioRico.WebApp.MVC", "src\DominioRico.WebApp.MVC\DominioRico.WebApp.MVC.csproj", "{C83F36EE-D300-415A-9E97-462F92322F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominioRico.Vendas.Domain", "src\DominioRico.Vendas.Domain\DominioRico.Vendas.Domain.csproj", "{2536079E-9C72-4CB8-AE4D-BFA5C4C5B678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominioRico.Vendas.Application", "DominioRico.Vendas.Application\DominioRico.Vendas.Application.csproj", "{36326E34-69EA-4692-85B6-C6FAB67D9FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominioRico.Vendas.Data", "DominioRico.Vendas.Data\DominioRico.Vendas.Data.csproj", "{F15518E3-813B-4602-A5F1-B80985971D3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{F321CB4E-78B7-4B36-8912-0C1CD1CC70FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F321CB4E-78B7-4B36-8912-0C1CD1CC70FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F321CB4E-78B7-4B36-8912-0C1CD1CC70FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83F36EE-D300-415A-9E97-462F92322F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83F36EE-D300-415A-9E97-462F92322F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83F36EE-D300-415A-9E97-462F92322F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83F36EE-D300-415A-9E97-462F92322F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2536079E-9C72-4CB8-AE4D-BFA5C4C5B678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2536079E-9C72-4CB8-AE4D-BFA5C4C5B678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2536079E-9C72-4CB8-AE4D-BFA5C4C5B678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2536079E-9C72-4CB8-AE4D-BFA5C4C5B678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36326E34-69EA-4692-85B6-C6FAB67D9FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36326E34-69EA-4692-85B6-C6FAB67D9FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36326E34-69EA-4692-85B6-C6FAB67D9FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36326E34-69EA-4692-85B6-C6FAB67D9FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15518E3-813B-4602-A5F1-B80985971D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15518E3-813B-4602-A5F1-B80985971D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15518E3-813B-4602-A5F1-B80985971D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15518E3-813B-4602-A5F1-B80985971D3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +98,10 @@ Global
 		{8F4AD32F-5298-46CB-9068-43751ED5D8F2} = {1C3E6028-8410-446B-B83B-F6B2CFAFE8B6}
 		{DBD9821A-C66E-4367-93F9-C28D74FF563D} = {757F4FCE-F8F4-4948-BDC5-7142D4EB0798}
 		{F321CB4E-78B7-4B36-8912-0C1CD1CC70FA} = {757F4FCE-F8F4-4948-BDC5-7142D4EB0798}
+		{C83F36EE-D300-415A-9E97-462F92322F60} = {C5419AA9-E488-41D2-9FD8-8EA5A871288F}
+		{2536079E-9C72-4CB8-AE4D-BFA5C4C5B678} = {68752E42-0EE9-4A12-854C-D57B1ED75953}
+		{36326E34-69EA-4692-85B6-C6FAB67D9FB0} = {68752E42-0EE9-4A12-854C-D57B1ED75953}
+		{F15518E3-813B-4602-A5F1-B80985971D3C} = {68752E42-0EE9-4A12-854C-D57B1ED75953}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {28841C85-9209-474C-A59E-BB3B42955032}

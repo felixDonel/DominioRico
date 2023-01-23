@@ -1,9 +1,4 @@
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.csproj.AssemblyReference.cache
-C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.AssemblyInfoInputs.cache
-C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.AssemblyInfo.cs
-C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\testhost.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\testhost.exe
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -16,6 +11,8 @@ C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Deb
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\DominioRico.Catalogo.Tests.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\ref\DominioRico.Catalogo.Tests.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\DominioRico.Catalogo.Tests.pdb
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\MediatR.dll
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\MediatR.Contracts.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -98,8 +95,14 @@ C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Deb
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\DominioRico.Core.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\DominioRico.Catalogo.Domain.pdb
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\DominioRico.Core.pdb
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.csproj.CopyComplete
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\ref\DominioRico.Catalogo.Tests.dll
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.pdb
 C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\obj\Debug\net5.0\DominioRico.Catalogo.Tests.genruntimeconfig.cache
+C:\Users\Feeco\source\repos\DominioRico\tests\DominioRico.Catalogo.Tests\bin\Debug\net5.0\FluentValidation.dll

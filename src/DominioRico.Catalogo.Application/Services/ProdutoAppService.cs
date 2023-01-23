@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using DominioRico.Catalogo.Application.ViewModels;
 using DominioRico.Catalogo.Domain;
+using DominioRico.Core.DomainObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -69,7 +70,7 @@ namespace DominioRico.Catalogo.Application.Services
         }
 
         public async Task<ProdutoViewModel> ObterPorId(Guid id)
-        {
+        {   
             return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));
         }
 

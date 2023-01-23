@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5EuwhrCEAmV24ip01+Jwgq73ehnUHjgqWI3g8adAkbuFLGiLzyrChjpSqE1hGScfSdDA8w8uCkIijR/STKuaqA==",
+  "dgSpecHash": "05i8QsalO6+A/YKLSqNUhOfPOM47nSTq2is6uaNonZIz9026la23dpqCngp3hnb6tFpWwCQSkzb69Ch8ZPrOzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Core\\DominioRico.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Feeco\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\Feeco\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Feeco\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],

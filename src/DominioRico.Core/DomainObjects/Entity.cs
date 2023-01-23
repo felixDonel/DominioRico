@@ -41,5 +41,10 @@ namespace DominioRico.Core.DomainObjects
         }
 
         public override string ToString() => $"{GetType().Name} [id ={Id}]";
+
+        public virtual bool EhValido()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

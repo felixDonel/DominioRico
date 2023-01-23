@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>aspnet-DominioRico.WebApp.MVC-D1377D9E-CE7B-405B-89F6-30655D0BC6C1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\src\DominioRico.Catalago.Data\DominioRico.Catalago.Data.csproj" />
+    <ProjectReference Include="..\src\DominioRico.Catalogo.Application\DominioRico.Catalogo.Application.csproj" />
+    <ProjectReference Include="..\src\DominioRico.Catalogo.Domain\DominioRico.Catalogo.Domain.csproj" />
+    <ProjectReference Include="..\src\DominioRico.Core\DominioRico.Core.csproj" />
+  </ItemGroup>
+
+</Project>

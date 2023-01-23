@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BV82LB5G6j4Geq/XPVUw910wV+Vd+NXGBlPxejRQ6i7VEIC8SVN61GVnMbx3/hRZo75X1Ia6bViyz+SkMi9OUQ==",
+  "dgSpecHash": "2sCNNUxRw/UPzKAkSlw2ePog7B3DtBkHXvpfm484Ms8lmI+x9nw6C7jGLY6ADJZ7t3CyeBwD0PhxqdH6Wvmlbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\tests\\DominioRico.Catalogo.Tests\\DominioRico.Catalogo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Feeco\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Feeco\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\Feeco\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Feeco\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Feeco\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

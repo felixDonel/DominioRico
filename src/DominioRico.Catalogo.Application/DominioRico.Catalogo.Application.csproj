@@ -4,4 +4,13 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DominioRico.Catalago.Data\DominioRico.Catalago.Data.csproj" />
+    <ProjectReference Include="..\DominioRico.Catalogo.Domain\DominioRico.Catalogo.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
