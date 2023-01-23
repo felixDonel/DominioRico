@@ -1,5 +1,6 @@
 ﻿using DominioRico.Catalogo.Domain;
 using DominioRico.Core.DomainObjects;
+using DominioRico.Core.Messages;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
@@ -21,6 +22,8 @@ namespace DominioRico.Catalago.Data
             foreach (var property in modelBuilder.Model.GetEntityTypes().SelectMany(
                 e => e.GetProperties().Where(p => p.ClrType == typeof(string))))
                 property.SetColumnType("varchar(100)");
+
+            modelBuilder.Ignore<Event>();
 
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(CatalogoContext).Assembly);
         }

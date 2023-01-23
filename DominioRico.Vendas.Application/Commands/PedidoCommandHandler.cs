@@ -1,6 +1,7 @@
 ﻿using DominioRico.Core.Bus;
 using DominioRico.Core.Messages;
 using DominioRico.Core.Messages.CommonMessages.Notifications;
+using DominioRico.Vendas.Application.Events;
 using DominioRico.Vendas.Domain;
 using MediatR;
 using System;
@@ -34,6 +35,7 @@ namespace DominioRico.Vendas.Application.Commands
                 pedido.AdicionarItem(pedidoItem);
 
                 _pedidoRepository.Adicionar(pedido);
+                pedido.AdicionarEvento(new PedidoRascunhoIniciadoEvent(message.ClienteId, message.ProdutoId));
             }
             else
             {
@@ -48,7 +50,11 @@ namespace DominioRico.Vendas.Application.Commands
                 {
                     _pedidoRepository.AdicionarItem(pedidoItem);
                 }
+
+                pedido.AdicionarEvento(new PedidoAtualizadoEvent(pedido.ClienteId, pedido.Id,pedido.ValorTotal));
             }
+
+            pedido.AdicionarEvento(new PedidoItemAdicionadoEvent(message.ClienteId, pedido.Id, message.ProdutoId, message.Nome, message.ValorUnitario, message.Quantidade));
             return await _pedidoRepository.UnitOfWork.Commit();
         }
         private bool ValidarComando(Command message)

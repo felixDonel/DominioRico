@@ -73,7 +73,6 @@ C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net5.0\DominioRico.WebApp.MVC.AssemblyInfoInputs.cache
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net5.0\DominioRico.WebApp.MVC.AssemblyInfo.cs
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net5.0\DominioRico.WebApp.MVC.csproj.CoreCompileInputs.cache
-C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net5.0\DominioRico.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net5.0\DominioRico.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net5.0\DominioRico.WebApp.MVC.RazorAssemblyInfo.cache
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.WebApp.MVC\obj\Debug\net5.0\DominioRico.WebApp.MVC.RazorAssemblyInfo.cs

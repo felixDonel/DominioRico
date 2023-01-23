@@ -40,6 +40,7 @@ namespace DominioRico.Vendas.Data
                 }
             }
 
+            await _mediatorHandler.PublicarEventos(ctx : this);
             var sucesso = await base.SaveChangesAsync() > 0;
 
             return sucesso;
