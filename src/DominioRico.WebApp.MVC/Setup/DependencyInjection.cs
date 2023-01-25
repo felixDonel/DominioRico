@@ -6,6 +6,7 @@ using DominioRico.Core.Bus;
 using DominioRico.Core.Messages.CommonMessages.Notifications;
 using DominioRico.Vendas.Application.Commands;
 using DominioRico.Vendas.Application.Events;
+using DominioRico.Vendas.Application.Queries;
 using DominioRico.Vendas.Data;
 using DominioRico.Vendas.Data.Repository;
 using DominioRico.Vendas.Domain;
@@ -34,8 +35,14 @@ namespace DominioRico.WebApp.MVC.Setup
 
             //vendas
             services.AddScoped<IPedidoRepository, PedidoRepository>();
-            services.AddScoped<IRequestHandler<AdicionarItemPedidoCommand, bool>, PedidoCommandHandler>();
             services.AddScoped<VendasContext>();
+            services.AddScoped<IPedidoQueries, PedidoQueries>();
+
+            services.AddScoped<IRequestHandler<AdicionarItemPedidoCommand, bool>, PedidoCommandHandler>();
+            services.AddScoped<IRequestHandler<AtualizarItemPedidoCommand, bool>, PedidoCommandHandler>();
+            services.AddScoped<IRequestHandler<RemoverItemPedidoCommand, bool>, PedidoCommandHandler>();
+            services.AddScoped<IRequestHandler<AplicarVoucherPedidoCommand, bool>, PedidoCommandHandler>();
+
 
 
             services.AddScoped<INotificationHandler<PedidoRascunhoIniciadoEvent>, PedidoEventHandler>();

@@ -22,9 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\DominioRico.Vendas.Application\DominioRico.Vendas.Application.csproj" />
-    <ProjectReference Include="..\..\DominioRico.Vendas.Data\DominioRico.Vendas.Data.csproj" />
     <ProjectReference Include="..\DominioRico.Catalogo.Application\DominioRico.Catalogo.Application.csproj" />
+    <ProjectReference Include="..\DominioRico.Vendas.Application\DominioRico.Vendas.Application.csproj" />
+    <ProjectReference Include="..\DominioRico.Vendas.Data\DominioRico.Vendas.Data.csproj" />
   </ItemGroup>
 
 </Project>

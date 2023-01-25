@@ -6473,13 +6473,13 @@
     },
     "DominioRico.Vendas.Application/1.0.0": {
       "type": "project",
-      "path": "../../DominioRico.Vendas.Application/DominioRico.Vendas.Application.csproj",
-      "msbuildProject": "../../DominioRico.Vendas.Application/DominioRico.Vendas.Application.csproj"
+      "path": "../DominioRico.Vendas.Application/DominioRico.Vendas.Application.csproj",
+      "msbuildProject": "../DominioRico.Vendas.Application/DominioRico.Vendas.Application.csproj"
     },
     "DominioRico.Vendas.Data/1.0.0": {
       "type": "project",
-      "path": "../../DominioRico.Vendas.Data/DominioRico.Vendas.Data.csproj",
-      "msbuildProject": "../../DominioRico.Vendas.Data/DominioRico.Vendas.Data.csproj"
+      "path": "../DominioRico.Vendas.Data/DominioRico.Vendas.Data.csproj",
+      "msbuildProject": "../DominioRico.Vendas.Data/DominioRico.Vendas.Data.csproj"
     },
     "DominioRico.Vendas.Domain/1.0.0": {
       "type": "project",
@@ -6531,14 +6531,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Feeco\\source\\repos\\DominioRico\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj": {
-              "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj"
-            },
-            "C:\\Users\\Feeco\\source\\repos\\DominioRico\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj": {
-              "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj"
-            },
             "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Catalogo.Application\\DominioRico.Catalogo.Application.csproj": {
               "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Catalogo.Application\\DominioRico.Catalogo.Application.csproj"
+            },
+            "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj": {
+              "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj"
+            },
+            "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj": {
+              "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj"
             }
           }
         }
