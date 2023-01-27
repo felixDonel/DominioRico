@@ -1,0 +1,17 @@
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.deps.json
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.dll
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\ref\DominioRico.Pagamentos.AntiCorruption.dll
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\DominioRico.Pagamentos.Business.dll
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\DominioRico.Pagamentos.Business.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\bin\Debug\net5.0\DominioRico.Core.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.dll
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\ref\DominioRico.Pagamentos.AntiCorruption.dll
+C:\Users\Feeco\source\repos\DominioRico\src\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\obj\Debug\net5.0\DominioRico.Pagamentos.AntiCorruption.pdb

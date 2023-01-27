@@ -1,0 +1,15 @@
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\bin\Debug\net5.0\DominioRico.Pagamentos.Business.deps.json
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\bin\Debug\net5.0\DominioRico.Pagamentos.Business.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\bin\Debug\net5.0\ref\DominioRico.Pagamentos.Business.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\bin\Debug\net5.0\DominioRico.Pagamentos.Business.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\bin\Debug\net5.0\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\bin\Debug\net5.0\DominioRico.Core.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.csproj.CopyComplete
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\ref\DominioRico.Pagamentos.Business.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Business\obj\Debug\net5.0\DominioRico.Pagamentos.Business.pdb

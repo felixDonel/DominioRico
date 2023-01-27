@@ -1,0 +1,17 @@
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\DominioRico.Pagamentos.Data.deps.json
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\DominioRico.Pagamentos.Data.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\ref\DominioRico.Pagamentos.Data.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\DominioRico.Pagamentos.Data.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\DominioRico.Core.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\DominioRico.Pagamentos.Business.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\DominioRico.Pagamentos.Business.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\bin\Debug\net5.0\DominioRico.Core.pdb
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.csproj.AssemblyReference.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.AssemblyInfoInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.AssemblyInfo.cs
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.csproj.CopyComplete
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\ref\DominioRico.Pagamentos.Data.dll
+C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Pagamentos.Data\obj\Debug\net5.0\DominioRico.Pagamentos.Data.pdb

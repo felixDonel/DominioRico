@@ -1802,6 +1802,48 @@
           "bin/placeholder/DominioRico.Core.dll": {}
         }
       },
+      "DominioRico.Pagamentos.AntiCorruption/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DominioRico.Pagamentos.Business": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DominioRico.Pagamentos.AntiCorruption.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DominioRico.Pagamentos.AntiCorruption.dll": {}
+        }
+      },
+      "DominioRico.Pagamentos.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DominioRico.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DominioRico.Pagamentos.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DominioRico.Pagamentos.Business.dll": {}
+        }
+      },
+      "DominioRico.Pagamentos.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DominioRico.Pagamentos.Business": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/DominioRico.Pagamentos.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DominioRico.Pagamentos.Data.dll": {}
+        }
+      },
       "DominioRico.Vendas.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -6471,6 +6513,21 @@
       "path": "../DominioRico.Core/DominioRico.Core.csproj",
       "msbuildProject": "../DominioRico.Core/DominioRico.Core.csproj"
     },
+    "DominioRico.Pagamentos.AntiCorruption/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Pagamentos.AntiCorruption/DominioRico.Pagamentos.AntiCorruption/DominioRico.Pagamentos.AntiCorruption.csproj",
+      "msbuildProject": "../NerdStore.Pagamentos.AntiCorruption/DominioRico.Pagamentos.AntiCorruption/DominioRico.Pagamentos.AntiCorruption.csproj"
+    },
+    "DominioRico.Pagamentos.Business/1.0.0": {
+      "type": "project",
+      "path": "../DominioRico.Pagamentos.Business/DominioRico.Pagamentos.Business.csproj",
+      "msbuildProject": "../DominioRico.Pagamentos.Business/DominioRico.Pagamentos.Business.csproj"
+    },
+    "DominioRico.Pagamentos.Data/1.0.0": {
+      "type": "project",
+      "path": "../DominioRico.Pagamentos.Data/DominioRico.Pagamentos.Data.csproj",
+      "msbuildProject": "../DominioRico.Pagamentos.Data/DominioRico.Pagamentos.Data.csproj"
+    },
     "DominioRico.Vendas.Application/1.0.0": {
       "type": "project",
       "path": "../DominioRico.Vendas.Application/DominioRico.Vendas.Application.csproj",
@@ -6491,6 +6548,8 @@
     "net5.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "DominioRico.Catalogo.Application >= 1.0.0",
+      "DominioRico.Pagamentos.AntiCorruption >= 1.0.0",
+      "DominioRico.Pagamentos.Data >= 1.0.0",
       "DominioRico.Vendas.Application >= 1.0.0",
       "DominioRico.Vendas.Data >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.0.0",
@@ -6534,11 +6593,17 @@
             "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Catalogo.Application\\DominioRico.Catalogo.Application.csproj": {
               "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Catalogo.Application\\DominioRico.Catalogo.Application.csproj"
             },
+            "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\DominioRico.Pagamentos.Data.csproj": {
+              "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\DominioRico.Pagamentos.Data.csproj"
+            },
             "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj": {
               "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj"
             },
             "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj": {
               "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj"
+            },
+            "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption.csproj": {
+              "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption.csproj"
             }
           }
         }

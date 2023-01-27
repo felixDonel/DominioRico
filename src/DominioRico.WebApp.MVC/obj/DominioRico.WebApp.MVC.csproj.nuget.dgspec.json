@@ -280,6 +280,136 @@
         }
       }
     },
+    "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\DominioRico.Pagamentos.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\DominioRico.Pagamentos.Business.csproj",
+        "projectName": "DominioRico.Pagamentos.Business",
+        "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\DominioRico.Pagamentos.Business.csproj",
+        "packagesPath": "C:\\Users\\Feeco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Feeco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Core\\DominioRico.Core.csproj": {
+                "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Core\\DominioRico.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\DominioRico.Pagamentos.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\DominioRico.Pagamentos.Data.csproj",
+        "projectName": "DominioRico.Pagamentos.Data",
+        "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\DominioRico.Pagamentos.Data.csproj",
+        "packagesPath": "C:\\Users\\Feeco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Feeco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\DominioRico.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\DominioRico.Pagamentos.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -513,11 +643,17 @@
               "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Catalogo.Application\\DominioRico.Catalogo.Application.csproj": {
                 "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Catalogo.Application\\DominioRico.Catalogo.Application.csproj"
               },
+              "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\DominioRico.Pagamentos.Data.csproj": {
+                "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Data\\DominioRico.Pagamentos.Data.csproj"
+              },
               "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj": {
                 "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Application\\DominioRico.Vendas.Application.csproj"
               },
               "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj": {
                 "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Vendas.Data\\DominioRico.Vendas.Data.csproj"
+              },
+              "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption.csproj": {
+                "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption.csproj"
               }
             }
           }
@@ -589,6 +725,64 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption.csproj",
+        "projectName": "DominioRico.Pagamentos.AntiCorruption",
+        "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption.csproj",
+        "packagesPath": "C:\\Users\\Feeco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\NerdStore.Pagamentos.AntiCorruption\\DominioRico.Pagamentos.AntiCorruption\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Feeco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\DominioRico.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\Users\\Feeco\\source\\repos\\DominioRico\\src\\DominioRico.Pagamentos.Business\\DominioRico.Pagamentos.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

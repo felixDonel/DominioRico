@@ -1,5 +1,6 @@
 using DominioRico.Catalago.Data;
 using DominioRico.Catalogo.Application.AutoMapper;
+using DominioRico.Pagamentos.Data;
 using DominioRico.Vendas.Data;
 using DominioRico.WebApp.MVC.Data;
 using DominioRico.WebApp.MVC.Setup;
@@ -34,6 +35,8 @@ namespace DominioRico.WebApp.MVC
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddDbContext<CatalogoContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<PagamentoContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddDbContext<VendasContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));

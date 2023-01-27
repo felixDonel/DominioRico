@@ -35,6 +35,8 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "DominioRico.Catalogo.Application": "1.0.0",
+          "DominioRico.Pagamentos.AntiCorruption": "1.0.0",
+          "DominioRico.Pagamentos.Data": "1.0.0",
           "DominioRico.Vendas.Application": "1.0.0",
           "DominioRico.Vendas.Data": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.0.0",
@@ -1615,6 +1617,42 @@
         },
         "compile": {
           "DominioRico.Core.dll": {}
+        }
+      },
+      "DominioRico.Pagamentos.AntiCorruption/1.0.0": {
+        "dependencies": {
+          "DominioRico.Pagamentos.Business": "1.0.0"
+        },
+        "runtime": {
+          "DominioRico.Pagamentos.AntiCorruption.dll": {}
+        },
+        "compile": {
+          "DominioRico.Pagamentos.AntiCorruption.dll": {}
+        }
+      },
+      "DominioRico.Pagamentos.Business/1.0.0": {
+        "dependencies": {
+          "DominioRico.Core": "1.0.0"
+        },
+        "runtime": {
+          "DominioRico.Pagamentos.Business.dll": {}
+        },
+        "compile": {
+          "DominioRico.Pagamentos.Business.dll": {}
+        }
+      },
+      "DominioRico.Pagamentos.Data/1.0.0": {
+        "dependencies": {
+          "DominioRico.Pagamentos.Business": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
+        },
+        "runtime": {
+          "DominioRico.Pagamentos.Data.dll": {}
+        },
+        "compile": {
+          "DominioRico.Pagamentos.Data.dll": {}
         }
       },
       "DominioRico.Vendas.Application/1.0.0": {
@@ -4103,6 +4141,21 @@
       "sha512": ""
     },
     "DominioRico.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DominioRico.Pagamentos.AntiCorruption/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DominioRico.Pagamentos.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DominioRico.Pagamentos.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -23,8 +23,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DominioRico.Catalogo.Application\DominioRico.Catalogo.Application.csproj" />
+    <ProjectReference Include="..\DominioRico.Pagamentos.Data\DominioRico.Pagamentos.Data.csproj" />
     <ProjectReference Include="..\DominioRico.Vendas.Application\DominioRico.Vendas.Application.csproj" />
     <ProjectReference Include="..\DominioRico.Vendas.Data\DominioRico.Vendas.Data.csproj" />
+    <ProjectReference Include="..\NerdStore.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption\DominioRico.Pagamentos.AntiCorruption.csproj" />
   </ItemGroup>
 
 </Project>

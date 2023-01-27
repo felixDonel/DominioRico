@@ -1,4 +1,6 @@
-﻿using DominioRico.Core.Messages.CommonMessages.IntegrationEvents;
+﻿using DominioRico.Core.Bus;
+using DominioRico.Core.Messages.CommonMessages.IntegrationEvents;
+using DominioRico.Vendas.Application.Commands;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -13,8 +15,15 @@ namespace DominioRico.Vendas.Application.Events
                 INotificationHandler<PedidoRascunhoIniciadoEvent>,
                 INotificationHandler<PedidoItemAdicionadoEvent>,
                 INotificationHandler<PedidoAtualizadoEvent>,
-                INotificationHandler<PedidoEstoqueRejeitadoEvent>
+                INotificationHandler<PedidoEstoqueRejeitadoEvent>,
+                INotificationHandler<PagamentoRealizadoEvent>,
+                INotificationHandler<PagamentoRecusadoEvent>
     {
+        private readonly IMediatorHandler _mediatorHandler;
+        public PedidoEventHandler(IMediatorHandler mediatorHandler)
+        {
+            _mediatorHandler = mediatorHandler;
+        }
         public Task Handle(PedidoRascunhoIniciadoEvent notification, CancellationToken cancellationToken)
         {
             return Task.CompletedTask;
@@ -32,6 +41,16 @@ namespace DominioRico.Vendas.Application.Events
         {
             //cancelar o processamento do pedido e retornar erro
             return Task.CompletedTask;
+        }
+
+        public async Task Handle(PagamentoRealizadoEvent message, CancellationToken cancellationToken)
+        {
+            await _mediatorHandler.EnviarComando(new FinalizarPedidoCommand(message.PedidoId,message.ClienteId));
+        }
+
+        public async Task Handle(PagamentoRecusadoEvent message, CancellationToken cancellationToken)
+        {
+            await _mediatorHandler.EnviarComando(new CancelarProcessamentoPedidoEstornarEstoqueCommand(message.PedidoId, message.ClienteId));
         }
     }
 }

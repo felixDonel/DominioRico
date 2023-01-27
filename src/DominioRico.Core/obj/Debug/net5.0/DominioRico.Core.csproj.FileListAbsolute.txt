@@ -9,4 +9,3 @@ C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\Do
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.dll
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\ref\DominioRico.Core.dll
 C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.pdb
-C:\Users\Feeco\source\repos\DominioRico\src\DominioRico.Core\obj\Debug\net5.0\DominioRico.Core.csproj.AssemblyReference.cache

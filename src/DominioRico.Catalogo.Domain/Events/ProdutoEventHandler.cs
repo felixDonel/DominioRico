@@ -12,7 +12,8 @@ namespace DominioRico.Catalogo.Domain.Events
 {
     public class ProdutoEventHandler :
        INotificationHandler<ProdutoAbaixoEstoqueEvent>,
-       INotificationHandler<PedidoIniciadoEvent>
+       INotificationHandler<PedidoIniciadoEvent>,
+        INotificationHandler<PedidoProcessamentoCanceladoEvent>
     {
         private readonly IProdutoRepository _produtoRepository;
         private readonly IEstoqueService _estoqueService;
@@ -45,6 +46,11 @@ namespace DominioRico.Catalogo.Domain.Events
             {
                 await _mediatorHandler.PublicarEvent(new PedidoEstoqueRejeitadoEvent(message.PedidoId, message.ClienteId));
             }
+        }
+
+        public async Task Handle(PedidoProcessamentoCanceladoEvent message, CancellationToken cancellationToken)
+        {
+            await _estoqueService.ReporListaProdutosPedido(message.ProdutosPedido);
         }
     }
 }
