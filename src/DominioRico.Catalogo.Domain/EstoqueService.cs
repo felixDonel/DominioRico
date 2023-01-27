@@ -77,5 +77,9 @@ namespace DominioRico.Catalogo.Domain
             _produtoRepository.Dispose();
         }
 
+        public Task<bool> ReporListaProdutosPedido(ListaProdutosPedido lista)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

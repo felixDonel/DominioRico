@@ -12,7 +12,7 @@ namespace DominioRico.Catalogo.Domain.Events
 {
     public class ProdutoEventHandler :
        INotificationHandler<ProdutoAbaixoEstoqueEvent>,
-       INotificationHandler<PedidoIniciadoEvent>,
+       INotificationHandler<PedidoIniciadoEvent>
     {
         private readonly IProdutoRepository _produtoRepository;
         private readonly IEstoqueService _estoqueService;
